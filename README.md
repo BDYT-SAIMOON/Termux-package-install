@@ -48,3 +48,11 @@ apt install openssh
  pip install mechanize
 
  pip install bs4
+
+ pkg install php
+
+ pkg install curl
+
+ pkg install wget
+
+ pkg install unzip
